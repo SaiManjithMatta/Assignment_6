@@ -14,5 +14,6 @@ CRN: 11813
 
 
 
+In this we have used Hierarchical clustering techniques and done PCA(Principal component analysis) and AgglomerativeClustering.
 
 Video:  https://drive.google.com/file/d/185Wdz2IW_lxk44IRmcyMDX9ljY0XGSi9/view?usp=sharing
